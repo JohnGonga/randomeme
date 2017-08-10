@@ -1,0 +1,16 @@
+img {
+margin: 0 auto;
+}
+
+body {
+	background-image: url('https://universoracionalista.org/wp-content/uploads/2014/05/Space-and-Stars.jpg');
+	background-repeat: no-repeat;
+}
+
+footer {
+	background-color: #fff;
+	text-align: center;
+}
+.row {
+	margin:0;
+}
